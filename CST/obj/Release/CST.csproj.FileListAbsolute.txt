@@ -1,0 +1,15 @@
+e:\documents\visual studio 2015\Projects\CST\CST\bin\Release\CST.exe.config
+e:\documents\visual studio 2015\Projects\CST\CST\bin\Release\CST.exe
+e:\documents\visual studio 2015\Projects\CST\CST\bin\Release\CST.pdb
+e:\documents\visual studio 2015\Projects\CST\CST\obj\Release\CST.exe
+e:\documents\visual studio 2015\Projects\CST\CST\obj\Release\CST.pdb
+e:\documents\visual studio 2015\Projects\CST\CST\obj\Release\CST.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\Achamenes.ID3.dll
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\Newtonsoft.Json.dll
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\Achamenes.ID3.pdb
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\Newtonsoft.Json.xml
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\nunit.framework.dll
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\NUnit.System.Linq.dll
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\nunit.framework.xml
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\elp87.TagReader.dll
+E:\Documents\Visual Studio 2015\Projects\CST\CST\bin\Release\elp87.TagReader.pdb
